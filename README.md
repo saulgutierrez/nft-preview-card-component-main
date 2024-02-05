@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-How to put an overlay hover image, and how ro use the transition property.
+How to put an overlay hover image, and how to use the transition property.
 
 ```css
 .overlay {
